@@ -7,3 +7,5 @@ I originally wanted to make a bot for jsab but it was quite tedious so i just ga
 It should work right out of the box after installing the correct packages
 
 If you want to improve the script simply add more places to scan around the player
+
+The player position should be inside the array "scanpoint"
